@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 I'm Mitesh Pani
+🎓 Student | 💻 Aspiring Software Developer
 
-<!--
-**Mitesh-Pani/Mitesh-Pani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning and building projects using:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Technologies
+🐍 Python
+⚙️ .NET
+🔍 Interests
+Software Development
+Data Structures & Algorithms
+Machine Learning (beginner)
+📌 Current Focus
+Building small projects
+Improving coding skills
+Exploring real-world applications
+📫 Feel free to explore my repositories and connect!
